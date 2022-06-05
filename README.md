@@ -1,5 +1,5 @@
 
-[Securely authenticate any CLI with 1Password](https://developer.1password.com/docs/cli/authenticate-clis)
+# Usando 1password para armazenar variáveis de ambiente
 
 ## Injetar secrets em um comando
 
@@ -13,6 +13,8 @@ _output:_
 > serverless config credentials --provider AWS --key 123KEY123 --secret 123SECRET123
 
 ## Alias
+
+[Securely authenticate any CLI with 1Password](https://developer.1password.com/docs/cli/authenticate-clis)
 
 ### AWS
 
