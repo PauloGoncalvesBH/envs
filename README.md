@@ -1,7 +1,7 @@
 
-# Usando 1password para armazenar variáveis de ambiente
+# Using 1password to store environment variables
 
-## Injetar secrets em um comando
+## Inject secrets in a command
 
 [Comando `op inject`](https://developer.1password.com/docs/cli/reference/commands/inject)
 
